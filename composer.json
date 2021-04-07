@@ -27,6 +27,9 @@
         "drupal/page_manager": "^4.0@beta",
         "drupal/panels": "^4.6",
         "drupal/paragraphs": "^1.12",
+        "drupal/pathauto": "^1.8",
+        "drupal/radix_layouts": "^4.1",
+        "drupal/redirect": "^1.6",
         "drush/drush": "^10.4"
     },
     "conflict": {
